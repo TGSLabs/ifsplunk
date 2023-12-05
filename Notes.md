@@ -1,0 +1,1 @@
+Command to create this base repo: dotnet new webapi

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8/2gOVcm5YRUagkwMjaZn/KjDFiEOXDAqqk6JABVzFw=",
+  "Source": "ifsplunk",
+  "BasePath": "_content/ifsplunk",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
